@@ -1,2 +1,2 @@
-hello
-second
+Git squash practice:
+Squash or s is used to merge 2 or more commits as a single commit
